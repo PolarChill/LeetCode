@@ -43,6 +43,7 @@ public class BitManipuation {
                 a = a >> 1;
             }
         }
+        
         return count;
     }
 
